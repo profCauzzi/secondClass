@@ -36,3 +36,8 @@ add_executable(for_tabelline for_tabelline.cpp)
 project(for_decremento)
 set(CMAKE_CXX_STANDARD 14)
 add_executable(for_decremento for_decremento.cpp)
+
+
+project(while_example)
+set(CMAKE_CXX_STANDARD 14)
+add_executable(while_example while_example.cpp)
