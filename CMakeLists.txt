@@ -41,3 +41,8 @@ add_executable(for_decremento for_decremento.cpp)
 project(while_example)
 set(CMAKE_CXX_STANDARD 14)
 add_executable(while_example while_example.cpp)
+
+
+project(do_while_example)
+set(CMAKE_CXX_STANDARD 14)
+add_executable(do_while_example do_while.cpp)
